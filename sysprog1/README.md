@@ -1,4 +1,4 @@
-# Project 4
+# Project 1
 
 For this assignment, you need to convert the provided program from C++ to C. You should pay particular 
 attention to three primary areas of difference:
